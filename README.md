@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I have a passion for automating tasks, designing server tools, and security.
+There's a collection of python tools in the CyberBook repo.
+As for security, I have some Hackthebox write ups underway.
 <!--
 **ClutchReboot/ClutchReboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
